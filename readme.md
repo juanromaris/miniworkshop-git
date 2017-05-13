@@ -1,6 +1,6 @@
-<h1>Instrucciones</h1>
+#Workshop
 
-**This text will be bold**
+**Git y GitHub**
 
 ![GitHub Logo](/images/logo.png)
 
